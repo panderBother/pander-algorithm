@@ -1,4 +1,4 @@
-本题来自牛客网的[小q的数列](https://www.nowcoder.com/practice/8ea1e0d996f64e15961ae42e658a04a7?tpId=386&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=%2Fexam%2Foj)
+本题来自牛客网的[小q的数列](https://www.nowcoder.com/practice/8ea1e0d996f64e15961ae42e658a04a7?tpId=386&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=%2Fexam%2Foj)（来源：牛客（newcoder））
 
 > <img src="C:\Users\35543\AppData\Roaming\Typora\typora-user-images\image-20250729201846671.png" alt="image-20250729201846671" style="zoom:50%;" />
 

@@ -1,4 +1,4 @@
-[【模板】快速幂Ⅰ ‖ 整数](https://www.nowcoder.com/practice/3d624107a6904da1bd0e8c9c85e17167?tpId=386&tqId=11079132&sourceUrl=%2Fexam%2Foj%3FquestionJobId%3D10%26subTabName%3Donline_coding_page)
+[【模板】快速幂Ⅰ ‖ 整数](https://www.nowcoder.com/practice/3d624107a6904da1bd0e8c9c85e17167?tpId=386&tqId=11079132&sourceUrl=%2Fexam%2Foj%3FquestionJobId%3D10%26subTabName%3Donline_coding_page)（来源：牛客（newcoder））
 
 ![image-20250801215644342](C:\Users\35543\AppData\Roaming\Typora\typora-user-images\image-20250801215644342.png)
 
